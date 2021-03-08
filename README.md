@@ -2,7 +2,7 @@
 
 I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Svelte and experienced with Vue. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
 
-### Serverless Projects
+### Serverless Functions (Netlify/Vercel)
 - [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
 - [Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)
 - [Quickstart Netlify Spaces/S3](https://github.com/dashpilot/quickstart-netlify-spaces) - Netlify serverless functions for saving data to Amazon S3 or Digitalocean Spaces
