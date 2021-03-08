@@ -17,6 +17,10 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
 - [Sitefiction Vue](https://vue-pagebuilder.dashpilot.vercel.app/) Sitefiction version built with Vue
 
+### Inline Editors
+- [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
+- [HTML template editor](https://github.com/dashpilot/html-template-editor) Inline on-page editor, works with any html template
+
 <!--
 
 Add Later: 
