@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a Dutch javascript/nodejs/php full-stack developer constantly exploring new ways of handling content-management (headless, inline-editing, serverless). Fluent in Svelte and experienced in Vue.
+I'm a Dutch js/nodejs/php full-stack developer constantly exploring new ways of handling content-management (headless, inline-editing, serverless). Fluent in Svelte and experienced in Vue.
 
 <!--
 **dashpilot/dashpilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
