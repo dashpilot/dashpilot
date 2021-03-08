@@ -7,7 +7,7 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)
 - [Quickstart Netlify Spaces/S3](https://github.com/dashpilot/quickstart-netlify-spaces) - Netlify serverless functions for saving data to Amazon S3 or Digitalocean Spaces
 - [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
-- [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions! Authentication via Google Firebase.
+- [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
 
 
