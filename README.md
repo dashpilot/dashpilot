@@ -3,10 +3,10 @@
 I'm a Dutch js/nodejs/php full-stack developer constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Svelte and experienced with Vue. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
 
 ### Serverless Projects
-[Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS\
-[Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)\
-[S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API\
-[Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions! Authentication via Google Firebase.
+- [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS\
+- [Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)\
+- [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API\
+- [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions! Authentication via Google Firebase.
 
 
 
