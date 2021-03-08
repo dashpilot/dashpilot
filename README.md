@@ -23,7 +23,7 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
 - [HTML template editor](https://github.com/dashpilot/html-template-editor) Inline on-page editor, works with any html template
 
-### Other
+## Other
 - [Vanilla SPA](https://github.com/dashpilot/vanilla-spa) Single page app and router without a framework, written in vanilla JS. Uses handlebars for templating
 
 <!--
