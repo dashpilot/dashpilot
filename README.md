@@ -12,7 +12,10 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 ## Headless CMS
 - [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
 
-### On-page editing
+### Sitefiction Blocks Builder
+[Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
+[Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
+[Sitefiction Vue](https://vue-pagebuilder.dashpilot.vercel.app/) Sitefiction version built with Vue
 
 <!--
 **dashpilot/dashpilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
