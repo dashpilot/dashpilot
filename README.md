@@ -1,6 +1,10 @@
 ### About Me
 
-I'm a Dutch js/nodejs/php full-stack developer constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Svelte and experienced in Vue.
+I'm a Dutch js/nodejs/php full-stack developer constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Svelte and experienced with Vue. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
+
+### Serverless
+[Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget)
+
 
 <!--
 **dashpilot/dashpilot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
