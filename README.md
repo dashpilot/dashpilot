@@ -12,12 +12,11 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 ## Headless CMS
 - [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
 
-## Under development and experiments
-
-### Sitefiction Blocks Builder
-- [Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
+### Page Builders
+- [Vue Pagebuilder](https://vue-pagebuilder.dashpilot.vercel.app/) Sitefiction version built with Vue
 - [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
-- [Sitefiction Vue](https://vue-pagebuilder.dashpilot.vercel.app/) Sitefiction version built with Vue
+
+## Under development and experiments
 
 ### Inline Editors
 - [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
@@ -27,6 +26,8 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [Vanilla SPA](https://github.com/dashpilot/vanilla-spa) Single page app and router without a framework, written in vanilla JS. Uses handlebars for templating
 
 <!--
+
+- [Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
 
 Add Later: 
 - editscreen
