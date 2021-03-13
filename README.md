@@ -10,7 +10,7 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
 ## Vue 3 Page Builder
-- [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) Vue 3 Page Builder
+- [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Vue 3 Page Builder
 
 
 ## Svelte Headless CMS
