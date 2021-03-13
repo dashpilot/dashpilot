@@ -9,12 +9,12 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
-## Headless CMS
-- [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
+## Vue 3 Page Builder
+- [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) Vue 3 Page Builder
 
-## Page Builders
-- [Vue Pagebuilder](https://vue-pagebuilder.dashpilot.vercel.app/) Sitefiction version built with Vue
-- [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
+
+## Svelte Headless CMS
+- [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
 
 ## Under development and experiments
 
@@ -28,6 +28,7 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 <!--
 
 - [Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
+- [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
 
 Add Later: 
 - editscreen
