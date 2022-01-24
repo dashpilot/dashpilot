@@ -12,8 +12,8 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 ## Single File Components for vanilla javascript
 A build script that allows you to write vanilla js in a modular, single file component style 
 
-https://github.com/dashpilot/single-file-components-for-vanilla-js/
-https://github.com/dashpilot/single-file-components-for-alpinejs
+- https://github.com/dashpilot/single-file-components-for-vanilla-js
+- https://github.com/dashpilot/single-file-components-for-alpinejs
 
 ## Vue 3 Page Builder
 - [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Vue 3 Page Builder
