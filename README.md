@@ -9,6 +9,11 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 - [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
+## Single File Components for vanilla javascript
+A build script that allows you to write vanilla js in a modular, single file component style 
+https://github.com/dashpilot/single-file-components-for-vanilla-js
+https://github.com/dashpilot/single-file-components-for-alpinejs
+
 ## Vue 3 Page Builder
 - [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Vue 3 Page Builder
 
