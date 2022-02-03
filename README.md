@@ -26,12 +26,14 @@ A build script that allows you to write vanilla js in a modular, single file com
 - [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
 - [Vanilla SPA](https://github.com/dashpilot/vanilla-spa) Single page app and router without a framework, written in vanilla JS. Uses handlebars for templating
 
+
+<!--
 ### Inline Editors
 - [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Vue 3 Page Builder
 - [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
 - [HTML template editor](https://github.com/dashpilot/html-template-editor) Inline on-page editor, works with any html template
 
-<!--
+
 
 - [Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
 - [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
