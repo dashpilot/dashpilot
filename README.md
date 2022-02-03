@@ -33,7 +33,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
             <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" />
         </td>
         <td>
-            <strong><a href="https://github.com/dashpilot/netlify-identity-git-gateway">Quickstart Netlify Identity & Gith Gateway</a></strong><br>
+            <strong><a href="https://github.com/dashpilot/netlify-identity-git-gateway">Quickstart Netlify Identity & Git Gateway</a></strong><br>
             Save your app's data to a Github repo without any server-side code
         </td>
     </tr>
