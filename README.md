@@ -26,10 +26,10 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 </table>
 
 ## Serverless Functions (Netlify/Vercel)
+- [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
 - [Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)
 - [Quickstart Netlify Spaces/S3](https://github.com/dashpilot/quickstart-netlify-spaces) - Netlify serverless functions for saving data to Amazon S3 or Digitalocean Spaces
-- [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
 ## Single File Components for vanilla javascript
