@@ -37,15 +37,6 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
             Save your app's data to a Github repo without any server-side code
         </td>
     </tr>
-    <tr>
-        <td width="50%">
-            <img src="https://raw.githubusercontent.com/dashpilot/dashpilot-json-cms/main/public/img/preview.png" width="100%" />
-        </td>
-        <td>
-            <strong><a href="https://github.com/dashpilot/vue-headless-cms">Vue Headless CMS</a></strong><br>
-            Headless CMS that saves to a single JSON file. Written in Vue 3
-        </td>
-    </tr>
 </table>
 
 
