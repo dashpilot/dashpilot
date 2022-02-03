@@ -33,7 +33,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
             <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" />
         </td>
         <td>
-            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Quickstart Netlify Identity & Gith Gateway</a></strong><br>
+            <strong><a href="https://github.com/dashpilot/quickstart-netlify-spaces">Quickstart Netlify Identity & Gith Gateway</a></strong><br>
             Save your app's data to a Github repo without any server-side code
         </td>
     </tr>
@@ -54,7 +54,6 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 ## Serverless Functions (Netlify/Vercel)
 - [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
-- [Netlify Identity - Git Gateway](https://github.com/dashpilot/netlify-identity-git-gateway) -Example of how to use Netlify Identity and Git Gateway to save files to Github (without using Netlify CMS)
 - [Quickstart Netlify Spaces/S3](https://github.com/dashpilot/quickstart-netlify-spaces) - Netlify serverless functions for saving data to Amazon S3 or Digitalocean Spaces
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
