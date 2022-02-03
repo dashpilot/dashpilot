@@ -78,8 +78,6 @@ A build script that allows you to write vanilla js in a modular, single file com
 - [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
 - [HTML template editor](https://github.com/dashpilot/html-template-editor) Inline on-page editor, works with any html template
 
-
-
 - [Sitefiction](https://sitefiction-builder.dashpilot.vercel.app/) Most fully featured version, built with Svelte
 - [Sitefiction, different approach](https://sitefiction-data-attr.vercel.app/) Svelte experiment that uses live-editing via a panel on the side, features image upload and can be used with non-Svelte templates
 
