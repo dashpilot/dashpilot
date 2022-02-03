@@ -4,9 +4,10 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
 
 
 ## Vue Projects
-<div>
-<img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="200" align="left" /> [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Full-featured modular page builder for Vue 3
-</div>
+<img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="400" style="border: 1px solid black" /> 
+
+[Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Full-featured modular page builder for Vue 3
+
 
 ## Serverless Functions (Netlify/Vercel)
 - [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
