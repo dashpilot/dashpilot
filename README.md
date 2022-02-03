@@ -43,7 +43,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/vite-alpinejs">Vite Alpine.js</a></strong><br>
-            Write modular Alpine.js code and use Vite as a bundler
+            Example on how to write modular Alpine.js code using Vite as a bundler
         </td>
     </tr>
 </table>
