@@ -30,7 +30,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 <table>
     <tr>
         <td width="50%">
-            <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/main/devto.png" width="100%" />
+            <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" />
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Quickstart Netlify Identity & Gith Gateway</a></strong><br>
