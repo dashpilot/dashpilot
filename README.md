@@ -6,7 +6,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 ## Vue 3 Projects
 <table>
     <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="100%" />
         </td>
         <td>
@@ -15,7 +15,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
         </td>
     </tr>
     <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="https://raw.githubusercontent.com/dashpilot/dashpilot-json-cms/main/public/img/preview.png" width="100%" />
         </td>
         <td>
@@ -29,7 +29,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 
 <table>
     <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" />
         </td>
         <td>
@@ -38,7 +38,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
         </td>
     </tr>
         <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/main/public/img/preview.jpg" width="100%" />
         </td>
         <td>
@@ -54,7 +54,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 
 <table>
     <tr>
-        <td width="50%">
+        <td width="33%">
             <img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/s3-json-db-npm.png" width="100%" />
         </td>
         <td>
