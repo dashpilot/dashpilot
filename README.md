@@ -37,7 +37,18 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
             Save your app's data to a Github repo without any server-side code
         </td>
     </tr>
+        <tr>
+        <td width="50%">
+            <img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/master/devto.png" width="100%" />
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/vite-alpinejs">Vite Alpine.js</a></strong><br>
+            Write modular Alpine.js code and use Vite as a bundler
+        </td>
+    </tr>
 </table>
+
+
 
 ## NPM Packages
 
