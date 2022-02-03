@@ -14,6 +14,15 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
             Full-featured modular page builder for Vue 3
         </td>
     </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="100%" />
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/dashpilot-json-cms">Vue Headless CMS</a></strong><br>
+            Headless CMS for Vue 3 that saves to a single JSON file
+        </td>
+    </tr>
 </table>
 
 ## Serverless Functions (Netlify/Vercel)
