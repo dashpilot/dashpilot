@@ -30,7 +30,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
 <table>
     <tr>
         <td width="33%">
-            <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" />
+            <a href="https://github.com/dashpilot/netlify-identity-git-gateway"><img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/master/devto.png" width="100%" /></a>
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/netlify-identity-git-gateway">Quickstart Netlify Identity & Git Gateway</a></strong><br>
@@ -39,7 +39,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
     </tr>
         <tr>
         <td width="33%">
-            <img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/main/public/img/preview.jpg" width="100%" />
+            <a href="https://github.com/dashpilot/vite-alpinejs"><img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/main/public/img/preview.jpg" width="100%" /></a>
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/vite-alpinejs">Vite Alpine.js</a></strong><br>
@@ -55,7 +55,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
 <table>
     <tr>
         <td width="33%">
-            <img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/s3-json-db-npm.png" width="100%" />
+            <a href="https://github.com/dashpilot/s3-json-db"><img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/s3-json-db-npm.png" width="100%" /></a>
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/s3-json-db">S3 JSON DB</a></strong><br>
@@ -68,7 +68,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
 <table>
     <tr>
         <td width="33%">
-            <img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/netlify-build-status-widget.png" width="100%" />
+            <a href="https://github.com/dashpilot/netlify-build-status-widget"><img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/netlify-build-status-widget.png" width="100%" /></a>
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/netlify-build-status-widget">Netlify Build Status Widget</a></strong><br>
