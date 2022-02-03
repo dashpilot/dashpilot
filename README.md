@@ -39,7 +39,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
     </tr>
         <tr>
         <td width="50%">
-            <img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/master/devto.png" width="100%" />
+            <img src="https://raw.githubusercontent.com/dashpilot/vite-alpinejs/main/public/img/preview.jpg" width="100%" />
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/vite-alpinejs">Vite Alpine.js</a></strong><br>
