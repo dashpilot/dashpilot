@@ -3,7 +3,7 @@
 I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Vue, Svelte and Alpine.js. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
 
 
-## Vue Projects
+## Vue 3 Projects
 <img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="50%" /> 
 
 [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Full-featured modular page builder for Vue 3
