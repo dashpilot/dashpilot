@@ -25,6 +25,32 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
     </tr>
 </table>
 
+## Tutorials/Quickstarts
+
+<table>
+    <tr>
+        <td width="50%">
+            <img src="https://raw.githubusercontent.com/dashpilot/netlify-identity-git-gateway/main/devto.png" width="100%" />
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Quickstart Netlify Identity & Gith Gateway</a></strong><br>
+            Save your app's data to a Github repo without any server-side code
+        </td>
+    </tr>
+    <tr>
+        <td width="50%">
+            <img src="https://raw.githubusercontent.com/dashpilot/dashpilot-json-cms/main/public/img/preview.png" width="100%" />
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/vue-headless-cms">Vue Headless CMS</a></strong><br>
+            Headless CMS that saves to a single JSON file. Written in Vue 3
+        </td>
+    </tr>
+</table>
+
+
+ 
+
 ## Serverless Functions (Netlify/Vercel)
 - [S3 JSON DB](https://github.com/dashpilot/s3-json-db) - Use Amazon S3 as a simple JSON database and serverless API
 - [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
