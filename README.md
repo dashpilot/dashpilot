@@ -1,6 +1,6 @@
 ### About Me
 
-I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Vue, Svelte and Alpine.js. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
+I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways of handling content-management (headless, inline-editing, JamStack, serverless). Fluent in Vue, Svelte and Alpine.js. I also develop plugins and serverless functions for Netlify, S3 and Vercel.
 
 
 ## Vue 3 Projects
