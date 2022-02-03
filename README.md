@@ -10,7 +10,7 @@ I'm a Dutch full-stack developer (js/nodejs/php) constantly exploring new ways o
             <img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="100%" />
         </td>
         <td>
-            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Vue pagebuilder</a></strong><br>
+            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Vue Pagebuilder</a></strong><br>
             Full-featured modular page builder for Vue 3
         </td>
     </tr>
