@@ -20,7 +20,7 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/vue-headless-cms">Vue Headless CMS</a></strong><br>
-            Headless CMS for Vue 3 that saves to a single JSON file
+            Headless CMS that saves to a single JSON file
         </td>
     </tr>
 </table>
