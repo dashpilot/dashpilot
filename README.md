@@ -65,10 +65,21 @@ I'm Gerben, a Dutch full-stack developer (js/nodejs/php) constantly exploring ne
 </table>
 
 
+<table>
+    <tr>
+        <td width="33%">
+            <img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/netlify-build-status-widget.png" width="100%" />
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/netlify-build-status-widget">Netlify Build Status Widget</a></strong><br>
+            Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
+        </td>
+    </tr>
+</table>
+
  
 
 ## Serverless Functions (Netlify/Vercel)
-- [Netlify Build Status Widget](https://github.com/dashpilot/netlify-build-status-widget) - Widget that shows the current status of your Netlify builds. Ideal for use with Netlify CMS
 - [Quickstart Netlify Spaces/S3](https://github.com/dashpilot/quickstart-netlify-spaces) - Netlify serverless functions for saving data to Amazon S3 or Digitalocean Spaces
 - [Vercel Serverless backend](https://github.com/dashpilot/vercel-serverless-backend) - Save data to S3 or Github straight from your front-end app using Vercel functions
 
