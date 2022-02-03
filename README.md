@@ -38,12 +38,12 @@ A build script that allows you to write vanilla js in a modular, single file com
 - https://github.com/dashpilot/single-file-components-for-vanilla-js
 - https://github.com/dashpilot/single-file-components-for-alpinejs
 
+
+<!--
 ## Under development and experiments
 - [Dashpilot Headless CMS](https://github.com/dashpilot/dashpilot-headless-cms) - Headless, multi-site CMS written in Svelte
 - [Vanilla SPA](https://github.com/dashpilot/vanilla-spa) Single page app and router without a framework, written in vanilla JS. Uses handlebars for templating
 
-
-<!--
 ### Inline Editors
 - [Vue Pagebuilder](https://github.com/dashpilot/vue-pagebuilder) - Vue 3 Page Builder
 - [Svelte inline editor](https://github.com/dashpilot/svelte-inline-editor) Inline on-page editor, works with Svelte Templates
