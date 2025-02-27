@@ -25,6 +25,20 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
     </tr>
 </table>
 
+## Alpine.js Projects
+<table>
+    <tr>
+        <td width="33%">
+            <a href="https://github.com/dashpilot/alpinejs-page-editor"><img src="https://raw.githubusercontent.com/dashpilot/vue-pagebuilder/main/editor/img/app-preview2.png" width="100%" /></a>
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Alpine.js Page Editor</a></strong><br>
+            On-page editor for Alpine.js
+        </td>
+    </tr>
+</table>
+
+
 ## Tutorials/Quickstarts
 
 <table>
