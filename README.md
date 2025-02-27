@@ -32,7 +32,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
             <a href="https://github.com/dashpilot/alpinejs-page-editor"><img src="https://raw.githubusercontent.com/dashpilot/alpinejs-page-editor/main/img/preview.png" width="100%" /></a>
         </td>
         <td>
-            <strong><a href="https://github.com/dashpilot/vue-pagebuilder">Alpine.js Page Editor</a></strong><br>
+            <strong><a href="https://github.com/dashpilot/alpinejs-page-editor">Alpine.js Page Editor</a></strong><br>
             On-page editor for Alpine.js
         </td>
     </tr>
