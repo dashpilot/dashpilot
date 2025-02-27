@@ -41,8 +41,8 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
             <a href="https://github.com/dashpilot/alpinejs-ssr"><img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/alpinejs-ssr-preview.png" width="100%" /></a>
         </td>
         <td>
-            <strong><a href="https://github.com/dashpilot/alpinejs-ssr">Server-Side Rendering for Alpine.js</a></strong><br>
-           Dead-simple Server-Side Rendering (SSR) for Alpine.js
+            <strong><a href="https://github.com/dashpilot/alpinejs-ssr">Server-Side Rendering (SSR) for Alpine.js</a></strong><br>
+           Dead-simple Server-Side Rendering for Alpine.js
         </td>
     </tr>
 </table>
