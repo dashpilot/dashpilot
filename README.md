@@ -36,6 +36,15 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
             On-page editor for Alpine.js
         </td>
     </tr>
+       <tr>
+        <td width="33%">
+            <a href="https://github.com/dashpilot/alpinejs-ssr"><img src="https://raw.githubusercontent.com/dashpilot/alpinejs-page-editor/main/img/preview.png" width="100%" /></a>
+        </td>
+        <td>
+            <strong><a href="https://github.com/dashpilot/alpinejs-ssr">Server-Side Rendering for Alpine.js</a></strong><br>
+           Server-Side Rendering for Alpine.js
+        </td>
+    </tr>
 </table>
 
 
