@@ -38,7 +38,7 @@ I'm Gerben, a Dutch full-stack developer constantly exploring new ways of handli
     </tr>
        <tr>
         <td width="33%">
-            <a href="https://github.com/dashpilot/alpinejs-ssr"><img src="https://raw.githubusercontent.com/dashpilot/alpinejs-page-editor/main/img/preview.png" width="100%" /></a>
+            <a href="https://github.com/dashpilot/alpinejs-ssr"><img src="https://raw.githubusercontent.com/dashpilot/dashpilot/main/img/alpinejs-ssr-preview.png" width="100%" /></a>
         </td>
         <td>
             <strong><a href="https://github.com/dashpilot/alpinejs-ssr">Server-Side Rendering for Alpine.js</a></strong><br>
